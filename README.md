@@ -10,6 +10,6 @@
 - 修改好这个.bat文件以后双击这个文件让文件运行
 ![image01](https://github.com/ZeroNightStr/ImagesRepository/blob/master/androiddeminstools_03.png.png)
 - 运行成功以后会看到这个文件下面多了一个res
-![image01](https://github.com/ZeroNightStr/ImagesRepository/blob/master/androiddimenstool_02.png)
+![image01](https://github.com/ZeroNightStr/ImagesRepository/blob/master/androiddimenstools_02.png)
 - 点开可以看到文件已经生成
 ![image01](https://github.com/ZeroNightStr/ImagesRepository/blob/master/androiddimens_tools_04.png)
